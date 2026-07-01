@@ -3,3 +3,6 @@ numpy
 CoolProp
 matplotlib
 pandas
+scipy
+plotly
+rocketprops
